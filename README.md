@@ -16,7 +16,13 @@ https://ubuntu.com/download/desktop/thank-you?version=18.04.4&architecture=amd64
 1a.) If you are on Windows, you can use Rufus (https://rufus.ie/) to create a bootable USB thumb drive. 
 1b.) If you are on Linux, you can use UNetbootin (https://unetbootin.github.io/) to create a bootable USB thumb drive
 
-2.) Boot the Dell into the BIOS - you'll need to change the hard drive controller mode, otherwise Linux will not see the NVMe hard drive during install. 
+2.) BIOS SETTINGS - Boot the laptop and enter the BIOS. You'll need to change several settings. 
+2a.) Change the SATA setting from RAID, to AHCI.
+2b.) Change "fast boot" to "throuough" 
+2c.) (Optional) Disable "secure" boot. 
+2d.) Save settings, attach external USB DVD with bootable Ubuntu DVD, or attach bootable Ubuntu USB thumb drive
+
+3.) Boot Ubuntu install image, and start the installation process.
 
 
 ## XPS 13 
