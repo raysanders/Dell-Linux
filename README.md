@@ -11,7 +11,7 @@ Additionally, this drive does not cover dual booting, or preserving the existing
 If you plan to run Windows in a VM, you'll want to retrive your "product key" from the Windows install first. 
 
 1.) Create a bootable install image of Ubuntu 20.04 ( burn to DVD if you have a portable USB DVD drive, or bootable USB stick)
-https://ubuntu.com/download/desktop/thank-you?version=20.04.4&architecture=amd64
+https://ubuntu.com/download/desktop/thank-you?version=20.04&architecture=amd64
 
 1a.) If you are on Windows, you can use Rufus (https://rufus.ie/) to create a bootable USB thumb drive. 
 1b.) If you are on Linux, you can use UNetbootin (https://unetbootin.github.io/) to create a bootable USB thumb drive
