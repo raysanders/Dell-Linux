@@ -38,6 +38,7 @@ https://ubuntu.com/download/desktop/thank-you?version=20.04&architecture=amd64
 ### (7590 - useful for other models as well)
 
 ## Optional - Dell D6000 USB-C Display Link Dock
+DisplayLink Drivers ( Ubuntu ) https://www.synaptics.com/products/displaylink-graphics/downloads/ubuntu
 
 ### References: 
 
